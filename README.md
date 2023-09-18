@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.2.
 The project follows the Platzi's Angular course for the basics.
-URL to the deployed project: https://yarnstore-cfe77.web.app/
+URL to the deployed project using Firebase CLI: https://yarnstore-cfe77.web.app/
 
 ## Development server
 
